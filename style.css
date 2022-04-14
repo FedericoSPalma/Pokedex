@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;  
+}
+
+
+.container{
+    margin:auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.card-data{
+    text-align: center;
+    width: 25%;
+    border: 2px solid red
+}
+
+
+.boton-container{
+    width: 100%;
+    display:flex;
+}
+
+.boton-next{
+    margin:auto;
+    height: 50px;
+}
+
